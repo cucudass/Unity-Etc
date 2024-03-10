@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Design Pattern\\Input System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90ED04-365D-8231-E0C6-B100676833BA}|Assembly-CSharp.csproj|d:\\unity design pattern\\input system\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF90ED04-365D-8231-E0C6-B100676833BA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF90ED04-365D-8231-E0C6-B100676833BA}|Assembly-CSharp.csproj|d:\\unity design pattern\\input system\\assets\\script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF90ED04-365D-8231-E0C6-B100676833BA}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\Unity Design Pattern\\Input System\\Assets\\Script\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAttack.cs",
+              "ToolTip": "D:\\Unity Design Pattern\\Input System\\Assets\\Script\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAttack.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:17:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\Unity Design Pattern\\Input System\\Assets\\Script\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMove.cs",
+              "ToolTip": "D:\\Unity Design Pattern\\Input System\\Assets\\Script\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMove.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwC0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T06:47:13.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
